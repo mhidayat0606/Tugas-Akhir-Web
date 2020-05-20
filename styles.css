@@ -1,0 +1,124 @@
+body {
+  text-align: center;
+}
+
+h2{
+	font-size: 3rem;
+	font-family: 'Fugaz One', cursive;
+}
+
+h5{
+	font-size: 2rem;
+	font-family: 'Fugaz One', cursive;
+}
+
+a{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+.h1-heading{
+	position: relative;
+	padding-top: 2%;
+	color:white;
+	font-family: 'Fugaz One', cursive;
+}
+
+.container-fluid{
+	padding: 3% 15%;
+}
+
+/*Konten*/
+.konten{
+	font-size: 1.5rem;
+	line-height: 2;
+	font-family: 'Coming Soon', cursive;
+}
+
+.poster-tentang{
+	width: 500px;
+	height: 500px;
+}
+
+.icon-kontak{
+	width: 30px;
+	height: 30px;
+}
+
+.konten-kontak{
+	text-align: left;
+	padding:0% 10% 0% 10%;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.konten-tentang{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 24px;
+}
+
+.konten-lokasi{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+/*Navbar*/
+
+
+/*Section*/
+.warna-konten{
+	background-color:#1B262C;
+	color: white;
+}
+
+#menu-bar{
+	background-color:#1B262C;
+	font-family: 'Ubuntu', sans-serif;
+}
+ /*Carousel*/
+ .carousel-inner{
+ 	padding-bottom: 3%
+ }
+
+.poster{
+	height: 500px;
+	width: 500px
+}
+
+
+/*Image*/
+.top-image{
+	width: 60%;
+}
+
+/*Footer*/
+.bottom-icon{
+	width: 40px;
+	height: 40px;
+}
+
+.footer{
+	background-color: rgba(27,38,44,0.5);
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-font{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-icon{
+	padding-bottom: 2%;
+}
+
+/*Button*/
+.tombol-kirim{
+	text-align: right;
+}
+
+/*Share Button*/
+#share-buttons img {
+width: 50px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
